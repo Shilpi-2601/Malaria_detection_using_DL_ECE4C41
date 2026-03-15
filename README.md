@@ -1,6 +1,6 @@
 # Malaria Detection With Deep Learning
+##Teamid - ECE4C41
 
-## This Repository Is Under Construction.
 Artificial intelligence (AI) has the potential to help tackle some of the world’s most challenging  problems and when coupled with popular tools and technologies for development and betterment of our society, what the point of technology when it can't help the needy and save lives. Deep learning helps us to build robust, scalable and effective solutions which can be adopted by everyone even in remote corners of the world and detection of Malaria is one of the problems which Deep learning has help to tackle. 
 
 
@@ -117,4 +117,4 @@ REFERNCES:
 
 [6]https://github.com/sayakpaul/Malaria-Detection-with-Deep-
 
-A special Thanks To sayakPaul
+
